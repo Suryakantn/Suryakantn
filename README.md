@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 I’m currently working on Some Full stack projects.<br>👯 I’m looking to collaborate on Open source Project<br>🌱 I’m currently learning MERN Stack.<br>📫 How to reach me nirmalsuryakant@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryakant-nirmal-985625b4/) 
